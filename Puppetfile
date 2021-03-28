@@ -1,4 +1,4 @@
-/usr/bin/env ruby
+#!/usr/bin/env ruby
 #^syntax detection
 
 forge "https://forgeapi.puppetlabs.com"
