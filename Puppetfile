@@ -4,13 +4,13 @@
 forge "https://forgeapi.puppetlabs.com"
 
 # use dependencies defined in metadata.json
-metadata
+# metadata
 
 # use dependencies defined in Modulefile
 # modulefile
 
 # A module from the Puppet Forge
- mod 'puppetlabs-stdlib'
+mod 'puppetlabs-stdlib'
 
 # A module from git
 mod 'puppetlabs-ntp',
