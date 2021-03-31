@@ -10,7 +10,7 @@ forge "https://forgeapi.puppetlabs.com"
 # modulefile
 
 mod 'apache',
-  :git => 'https://github.com/josephakeni/apache.git',
+  :git => 'https://github.com/josephakeni/puppet_modules.git',
   :branch => 'master'
 
 
