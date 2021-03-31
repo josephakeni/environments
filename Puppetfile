@@ -9,7 +9,7 @@ forge "https://forgeapi.puppetlabs.com"
 # use dependencies defined in Modulefile
 # modulefile
 
-mod 'apache',
+mod 'puppet_modules',
   :git => 'https://github.com/josephakeni/puppet_modules.git',
   :branch => 'master'
 
