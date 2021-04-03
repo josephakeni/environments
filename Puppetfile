@@ -12,7 +12,8 @@ forge "https://forgeapi.puppetlabs.com"
 mod 'apache',
   :git => 'https://github.com/josephakeni/apache.git',
   :branch => 'master'
-
+mod 'puppetlabs-ntp',
+  :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git'
 
 
 
