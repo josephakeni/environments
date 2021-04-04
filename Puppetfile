@@ -19,6 +19,6 @@ forge "https://forgeapi.puppetlabs.com"
 # mod 'puppetlabs/apt', '1.8.0 <= 3.0.0' 
 # mod 'stahnma/epel', '0.0.6'
 mod 'docker', 
-  :git => 'https://github.com/josephakeni/docker.git'
+  :git => 'https://github.com/josephakeni/docker.git',
   :branch => 'master'
 
