@@ -21,4 +21,7 @@ forge "https://forgeapi.puppetlabs.com"
 mod 'docker', 
   :git => 'https://github.com/josephakeni/docker.git',
   :branch => 'master'
+mod 'k8_module', 
+  :git => 'https://github.com/josephakeni/k8_module.git',
+  :branch => 'master'
 
