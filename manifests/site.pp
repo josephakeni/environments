@@ -1,3 +1,4 @@
 node /agent/ {
-	include apache
+	include docker
+	include k8_module
 }
