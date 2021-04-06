@@ -14,7 +14,7 @@ forge "https://forgeapi.puppetlabs.com"
 #   :branch => 'master'
 # mod 'puppetlabs-ntp',
 #   :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git'
-mod 'puppetlabs/stdlib', '7.0.0',
+mod 'puppetlabs/stdlib', '7.0.0'
 mod 'puppetlabs-kubernetes', '6.0.0'
 
 # mod 'puppetlabs/apt', '1.8.0 <= 3.0.0' 
