@@ -14,11 +14,10 @@ forge "https://forgeapi.puppetlabs.com"
 #   :branch => 'master'
 # mod 'puppetlabs-ntp',
 #   :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git'
-
+mod 'puppetlabs-kubernetes', '6.0.0'
 # mod 'puppetlabs/stdlib', '4.1.0', 
 # mod 'puppetlabs/apt', '1.8.0 <= 3.0.0' 
 # mod 'stahnma/epel', '0.0.6'
-mod 'puppetlabs-kubernetes', '6.0.0',
 mod 'docker', 
   :git => 'https://github.com/josephakeni/docker.git',
   :branch => 'master'
